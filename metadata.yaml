@@ -1,0 +1,30 @@
+_repo: Edward-Buttoneye-and-His-Adventures_43692
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Austin, Hilda
+    gutenberg_agent_id: '42066'
+    url: http://www.gutenberg.org/2009/agents/42066
+covers:
+- cover_type: archival
+  image_path: 43692-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Austin, Cyril F.
+    gutenberg_agent_id: '42368'
+    url: http://www.gutenberg.org/2009/agents/42368
+description: ''
+gutenberg_issued: '2013-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dolls -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Toys -- Juvenile poetry'
+title: Edward Buttoneye and His Adventures
+url: http://www.gutenberg.org/ebooks/43692
